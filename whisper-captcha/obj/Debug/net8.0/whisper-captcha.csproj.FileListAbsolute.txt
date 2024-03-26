@@ -1,0 +1,15 @@
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\bin\Debug\net8.0\whisper-captcha.exe
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\bin\Debug\net8.0\whisper-captcha.deps.json
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\bin\Debug\net8.0\whisper-captcha.runtimeconfig.json
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\bin\Debug\net8.0\whisper-captcha.dll
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\bin\Debug\net8.0\whisper-captcha.pdb
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\whisper-captcha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\whisper-captcha.AssemblyInfoInputs.cache
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\whisper-captcha.AssemblyInfo.cs
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\whisper-captcha.csproj.CoreCompileInputs.cache
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\whisper-captcha.dll
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\refint\whisper-captcha.dll
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\whisper-captcha.pdb
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\whisper-captcha.genruntimeconfig.cache
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\obj\Debug\net8.0\ref\whisper-captcha.dll
+C:\Users\Tester\RiderProjects\whisper-captcha\whisper-captcha\bin\Debug\net8.0\cap-dl\audio.mp3
